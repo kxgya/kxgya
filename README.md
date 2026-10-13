@@ -1,16 +1,25 @@
-## Hi there 👋
+# Визитка
+> Пару слов обо мне
+### 👀 Основная информация
+- 😶‍🌫️ Привет, меня зовут Антон.
+- 🚀 Я студент, учусь на первом курсе университета **ИТМО** на направлении **Software Engineering**.
+- 🏠 Живу в СПБ
+- ⚡ Интересный факт: пишу музыку в Fl Studio 
 
-<!--
-**kxgya/kxgya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Навыки
 
-Here are some ideas to get you started:
++ **Языки программирования:** *Python*, *C* (`все еще изучаю`)
++ **Инструменты:** *VS Code*, *GitHub*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Направление | Конкретный навык / Инструмент | Умею применять | Хочу освоить |
+| :--- | :--- | :---: | :---: |
+| **База** | Работа с Git и GitHub через терминал | [x] | [ ] |
+| **Интерфейсы** | Адаптивная верстка (HTML5 / CSS3) | [ ] | [x] |
+| **Логика** | Написание базовых скриптов (C / Python) | [x] | [ ] |
+| **Данные** | Работа с базами данных (SQL / NoSQL) | [ ] | [x] |
+
+---
+`Связаться со мной`:  
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/highex)
+
